@@ -428,7 +428,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "keyauth"
+name = "EpicAuth"
 version = "1.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "cf5ec8e7a524a25c44519cdd4f018e8f85c56c41fb1180ccd9976a3dbb8f910f"
@@ -445,10 +445,10 @@ dependencies = [
 ]
 
 [[package]]
-name = "keyauth-loader"
+name = "EpicAuth-loader"
 version = "1.0.0"
 dependencies = [
- "keyauth",
+ "EpicAuth",
  "obfstr",
 ]
 
