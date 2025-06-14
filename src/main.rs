@@ -4,7 +4,7 @@ fn main() {
         "JjPMBVlIOd",
         "db40d586f4b189e04e5c18c3c94b7e72221be3f6551995adc05236948d1762bc",
         "1.0",
-        "https://keyauth.site/api/1.2/",
+        "https://EpicAuth.cc/api/1.2/",
     );
 
     // None or Some(apphash)

@@ -1,5 +1,5 @@
 # EpicAuth-Rust-Example
-EpicAuth Rust example SDK for https://keyauth.site license key API auth.
+EpicAuth Rust example SDK for https://EpicAuth.cc license key API auth.
 
 Update the values in the `main.rs` file and you're ready to go!
 
