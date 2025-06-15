@@ -1,5 +1,5 @@
 [package]
-authors = ["EBSmash <https://github.com/EBSmash" , "zegevlier <iamascratcher@gmail.com>", "mazkdevf <https://github.com/mazk5145>"]
+authors = ["EBSmash <https://github.com/EBSmash" , "zegevlier <iamascratcher@gmail.com>", "EpicAuth <https://github.com/EpicAuth>"]
 edition = "2021"
 name = "EpicAuth-loader"
 version = "1.0.0"
